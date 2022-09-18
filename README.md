@@ -1,3 +1,5 @@
-## Olá, mundo!
+# Olá, mundo!
 
-Arquivo de exemplo para o treinamento de git da Iteris
+Arquivo de exemplo para o treinamento de git da Iteris!
+
+## Subtítulo
